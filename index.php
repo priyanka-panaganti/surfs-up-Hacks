@@ -31,8 +31,7 @@
     <script src="js/modernizr.js"></script>
     <script defer src="js/fontawesome/all.min.js"></script>
 
-    <!-- favicons
-    ================================================== -->
+   
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
@@ -78,11 +77,11 @@
 
     <!-- home
     ================================================== -->
-    <section id="home" class="s-home target-section" data-parallax="scroll" data-image-src="h12.jpeg" data-natural-width="3000" data-natural-height="2000">
+      <section id="home" class="s-home target-section" data-parallax="scroll" data-image-src="h12.jpeg" data-natural-width="3000" data-natural-height="2000">
 
-        <div class="s-home__content">
+          <div class="s-home__content">
 
-            <div class="s-home__slider">
+              <div class="s-home__slider">
 
                 <div class="s-home__slide s-home__slide--1">
                     <div class="row">
@@ -131,10 +130,10 @@
         <div class="row section-head">
             <div class="column large-3 medium-12" data-aos="fade-up">
                 <h2>Activities</h2>
-                <p class="desc">Our list of awesome Activities.</p>
+                <p class="desc"> Our list of awesome Activities. </p>
             </div>
 
-            <div class="column large-8 medium-12 align-x-right" data-aos="fade-up">
+             <div class="column large-8 medium-12 align-x-right" data-aos="fade-up">
                 <p class="lead">
                     When springtime rolls around here in Seattle, those intermittent beautiful days make us start longing for summertime in the PNW. Unfortunately for us, we’ve got a few more weeks of wet and wintry weather to get through, which has us dreaming about sun-kissed beaches at slightly more southern latitudes.
                 </p>
