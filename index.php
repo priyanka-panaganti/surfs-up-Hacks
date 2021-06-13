@@ -75,8 +75,7 @@
     </header> <!-- end s-header -->
 
 
-    <!-- home
-    ================================================== -->
+    
       <section id="home" class="s-home target-section" data-parallax="scroll" data-image-src="h12.jpeg" data-natural-width="3000" data-natural-height="2000">
 
           <div class="s-home__content">
@@ -123,8 +122,7 @@
     </section> <!-- end s-home -->
 
 
-    <!-- services
-    ================================================== -->
+   
     <section id="services" class="s-services target-section s-dark">
 
         <div class="row section-head">
@@ -135,7 +133,7 @@
 
              <div class="column large-8 medium-12 align-x-right" data-aos="fade-up">
                 <p class="lead">
-                    When springtime rolls around here in Seattle, those intermittent beautiful days make us start longing for summertime in the PNW. Unfortunately for us, we’ve got a few more weeks of wet and wintry weather to get through, which has us dreaming about sun-kissed beaches at slightly more southern latitudes.
+                      When springtime rolls around here in Seattle, those intermittent beautiful days make us start longing for summertime in the PNW. Unfortunately for us, we’ve got a few more weeks of wet and wintry weather to get through, which has us dreaming about sun-kissed beaches at slightly more southern latitudes.
                 </p>
             </div>
         </div> <!-- end section-head -->
@@ -145,21 +143,21 @@
             <div class="column services-item" data-aos="fade-up">
                 <h5> Concert</h5>
                 <p>
-                    Connect with your kids, your friends and your family while taking part in the concerts at the coast in GOA Beach. Featuring well-known music performers in the C-Spire Concert Series at The Wharf, and ever-popular music events such as the Hangout Music Festival on the GOA Beach. We invite you to soak up the sun and our southern hospitality as you adjust to our relaxed pace.
+                      Connect with your kids, your friends and your family while taking part in the concerts at the coast in GOA Beach. Featuring well-known music performers in the C-Spire Concert Series at The Wharf, and ever-popular music events such as the Hangout Music Festival on the GOA Beach. We invite you to soak up the sun and our southern hospitality as you adjust to our relaxed pace.
                 </p>
             </div> <!-- end services-item -->
 
             <div class="column services-item" data-aos="fade-up">
                 <h5>Movie Night</h5>
                 <p>
-                    Goa Beach Club is known as glitzy day club, with relaxed vibes, crystal clear water and plenty of fun in the moon. It is also offering an outdoor night movie concept that has an amazing and exclusive view, with that cool ocean breeze and the crashing waves as the backing soundtrack. We invite you to soak up the moon and our southern hospitality as you adjust to our relaxed pace.
+                      Goa Beach Club is known as glitzy day club, with relaxed vibes, crystal clear water and plenty of fun in the moon. It is also offering an outdoor night movie concept that has an amazing and exclusive view, with that cool ocean breeze and the crashing waves as the backing soundtrack. We invite you to soak up the moon and our southern hospitality as you adjust to our relaxed pace.
                 </p>
             </div> <!-- end services-item -->
 
             <div class="column services-item" data-aos="fade-up">
                 <h5>Beach Party</h5>
                 <p>
-                    Being the party capital of India, a Club Party in Goa has to be lit in every way. The state indulges in crazy celebration on all its beaches, clubs and resorts, giving the visitors epic memories to cherish for life. If you are planning for your private Party in Goa, you got to know about the best places to enjoy with your friends or partner.
+                      Being the party capital of India, a Club Party in Goa has to be lit in every way. The state indulges in crazy celebration on all its beaches, clubs and resorts, giving the visitors epic memories to cherish for life. If you are planning for your private Party in Goa, you got to know about the best places to enjoy with your friends or partner.
                 </p>
             </div> <!-- end services-item -->
 
@@ -173,14 +171,14 @@
             <div class="column services-item" data-aos="fade-up">
                 <h5>Beach Rides</h5>
                 <p>
-                    Goa is all about water and fun for water lovers. The hot summer season and beautiful beaches obviously call for some interesting water sports in Goa. We have a list of water activities for all the water lovers that are so much fun to do. Seawater is always an attraction for its lovers. They always get curious when they come near the sea and eagerly want to know about the life of aquatic creatures.
+                      Goa is all about water and fun for water lovers. The hot summer season and beautiful beaches obviously call for some interesting water sports in Goa. We have a list of water activities for all the water lovers that are so much fun to do. Seawater is always an attraction for its lovers. They always get curious when they come near the sea and eagerly want to know about the life of aquatic creatures.
                 </p>
             </div> <!-- end services-item -->
 
             <div class="column services-item" data-aos="fade-up">
                 <h5>Paragliding</h5>
                 <p>
-                    Another  one water activities in goa  which is adventurous and amazing. In this activity you fly behind the boat like a kite. You are tied to boat and balloon, during paragliding boat is running in speed and it is amazing experience even in boat. It is a mixed activity of air and water.During Parasailing you can view a beautiful sea of Goa and beyond. There is water everywhere and you can’t move your eyes from this beautiful view. 
+                      Another  one water activities in goa  which is adventurous and amazing. In this activity you fly behind the boat like a kite. You are tied to boat and balloon, during paragliding boat is running in speed and it is amazing experience even in boat. It is a mixed activity of air and water.During Parasailing you can view a beautiful sea of Goa and beyond. There is water everywhere and you can’t move your eyes from this beautiful view. 
                 </p>
             </div> <!-- end services-item -->
 
